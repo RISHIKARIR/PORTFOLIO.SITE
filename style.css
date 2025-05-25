@@ -1,0 +1,87 @@
+
+/*BOOTING...*/
+html,body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.loading{
+    height: 100vh;
+    width: 100vw;
+    background-color: #494949;
+font-family:'Press Start 2P';
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center
+}
+
+
+.loading h3{
+    color: #ffffff;
+}
+
+.loading #load-bar{
+    height: 50px;
+    width: 200vh;
+    border: 2px dashed #e7c6a5;
+
+
+}
+.loading #fill-loader{
+    margin: 2px;
+    height: 45px;
+    background-color: #ffffff;
+    animation: loading 2s  forwards;
+
+}
+
+
+
+@keyframes loading {
+    0%{ width: 0%;}
+    100%{width: 99.5%;}
+    
+}
+
+.loading #blink{
+    animation: blinking infinite 1s;
+
+}
+@keyframes blinking {
+    0%{opacity: 1}
+    50%{opacity: 0}
+    100%{opacity: 1}   
+}
+
+
+.visible{
+    display: none; 
+
+} 
+
+
+.main-content{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    background-color: #494949;
+    color: #ffffff;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
