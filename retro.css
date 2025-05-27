@@ -174,13 +174,11 @@ z-index: 0;
 }
 
 
-/* #second{
-    position: rel;
-    top: 80%;
+#second{
+    position: relative;
     left: 10%;
-    right: 10%;
-
-} */
+    
+}
 #below{
     position: relative;
     
