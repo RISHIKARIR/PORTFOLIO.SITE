@@ -381,12 +381,12 @@ font-size: 1rem;
 }
 
 #spotify-heading{
-    height: 3.6rem;
+    height: 3.5rem;
     width: 15rem;
     background-color: #ffffff;
-    /* display: flex;
+    display: flex;
     align-self: center;
-    justify-self: center; */
+    justify-self: center;
     text-align: center;
     
     /* margin-top: 5%;
