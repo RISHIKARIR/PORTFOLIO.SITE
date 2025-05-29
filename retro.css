@@ -425,10 +425,10 @@ font-size: 1rem;
     } */
 
     #simon-heading{ 
+        margin-left: 5rem;
         color: #2f2f2f;
-        
-        justify-self: center;
-        align-items: center;
+        /* justify-self: center;
+        align-items: center; */
         height: 3.5rem;
         width: 15rem;
 text-align: center;
@@ -436,7 +436,7 @@ text-align: center;
     }
 
 #simon-line{
-    text-align: center;
+    margin-left: 4rem;
     /* margin-left: 40%; */
 }
 
