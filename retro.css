@@ -497,11 +497,12 @@ text-align: center;
 
 #Education-heading{
     display: flex;
-    justify-self: center;
+    margin-left: 3rem;
     justify-content: center;
     align-items: center;
     color: #2f2f2f;
-    text-align: center;
+
+    /* text-align: center; */
     height: 4rem;
     width: 20rem;
     background-color: #ffffff;
