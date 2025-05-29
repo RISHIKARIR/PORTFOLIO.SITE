@@ -381,14 +381,14 @@ font-size: 1rem;
 }
 
 #spotify-heading{
-    height: 3.5rem;
+    height: 3.6rem;
     width: 15rem;
     background-color: #ffffff;
-    display: flex;
+    /* display: flex;
     align-self: center;
-    justify-self: center;
+    justify-self: center; */
     text-align: center;
-    
+    margin-left: 5rem;
     /* margin-top: 5%;
     margin-left: 40%;    */
 }
@@ -396,6 +396,7 @@ font-size: 1rem;
 
 
 #replica-line{
+    margin-left: 4rem;
     /* margin-left: 38%; */
 }
 
