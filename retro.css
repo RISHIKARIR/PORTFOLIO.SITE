@@ -124,7 +124,7 @@ z-index: 1;
 } 
 
 #sidemenu.active {
-    animation: sideicons 1s forwards;
+    /* animation: sideicons 1s forwards; */
     animation: sidebarmove 1s forwards;
   }
 
@@ -175,7 +175,7 @@ z-index: 0;
 
 #second{
     position: relative;
-    margin-top: 8rem;
+    margin-top: 8.5rem;
      
 }
 #below{
