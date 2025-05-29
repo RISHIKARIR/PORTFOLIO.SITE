@@ -471,8 +471,9 @@ text-align: center;
 #portfolio-heading{
     display: flex;
     color: #2f2f2f;
-    justify-self: center;
-    align-items: center;
+    margin-left: 2rem;
+    
+    align-items: center; 
     height: 5rem;
     width: 21rem;
 text-align: center;
@@ -480,7 +481,7 @@ text-align: center;
 }
 
 #folio-line{
-    text-align: center;
+    margin-left: 3rem;
 }
 
 #folio-para{
@@ -509,7 +510,7 @@ text-align: center;
 
 #Education-line{
     font-size: 1rem;
-    text-align: center;
+    margin-left: 3rem;
 }
 
 #education-section{
